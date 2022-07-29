@@ -1,0 +1,18 @@
+2022-07-26 13:37:28,448	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 6: exceptions must derive from BaseException
+2022-07-26 13:37:29,161	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 7: exceptions must derive from BaseException
+2022-07-26 13:37:29,861	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 8: exceptions must derive from BaseException
+2022-07-26 13:37:30,561	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 9: exceptions must derive from BaseException
+2022-07-26 13:37:32,738	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][212] Line 207 Chamber 10: division by zero
+2022-07-26 13:38:02,734	cryomonitor	INFO	Line 211 is stopped.
+2022-07-26 13:40:44,135	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 6: exceptions must derive from BaseException
+2022-07-26 13:40:44,904	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 7: exceptions must derive from BaseException
+2022-07-26 13:40:45,689	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 8: exceptions must derive from BaseException
+2022-07-26 13:40:46,474	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 9: exceptions must derive from BaseException
+2022-07-26 13:40:47,142	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][212] Line 207 Chamber 10: division by zero
+2022-07-26 13:40:59,873	cryomonitor	INFO	Line 211 is stopped.
+2022-07-26 13:42:06,076	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 6: exceptions must derive from BaseException
+2022-07-26 13:42:06,844	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 7: exceptions must derive from BaseException
+2022-07-26 13:42:07,591	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 8: exceptions must derive from BaseException
+2022-07-26 13:42:08,329	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 9: exceptions must derive from BaseException
+2022-07-26 13:42:09,130	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][212] Line 207 Chamber 10: division by zero
+2022-07-26 13:42:24,123	cryomonitor	INFO	Line 211 is stopped.

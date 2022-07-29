@@ -1,0 +1,103 @@
+2022-07-26 10:42:59,781	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 10:43:01,700	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 10:43:03,613	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 10:43:05,543	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 10: object of type 'NoneType' has no len()
+2022-07-26 10:44:49,440	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 211 Chamber 4: division by zero
+2022-07-26 10:44:55,555	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 211 Chamber 5: division by zero
+2022-07-26 10:45:01,433	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 211 Chamber 6: division by zero
+2022-07-26 10:45:07,297	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 211 Chamber 7: division by zero
+2022-07-26 10:45:13,175	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 211 Chamber 8: division by zero
+2022-07-26 10:53:30,841	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-26 10:53:31,770	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 10:53:32,686	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 10:53:33,588	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 10:53:34,189	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 207 Chamber 10: division by zero
+2022-07-26 10:53:43,455	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 211 Chamber 4: division by zero
+2022-07-26 10:53:44,069	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 211 Chamber 5: division by zero
+2022-07-26 10:53:44,679	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 211 Chamber 6: division by zero
+2022-07-26 10:53:45,283	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 211 Chamber 7: division by zero
+2022-07-26 10:53:45,899	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 211 Chamber 8: division by zero
+2022-07-26 10:57:37,369	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-26 10:57:38,286	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 10:57:39,187	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 10:57:40,088	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 10:57:40,689	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][205] Line 207 Chamber 10: division by zero
+2022-07-26 10:57:49,565	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][205] Line 211 Chamber 4: division by zero
+2022-07-26 10:57:50,166	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][205] Line 211 Chamber 5: division by zero
+2022-07-26 10:57:50,783	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][205] Line 211 Chamber 6: division by zero
+2022-07-26 10:57:51,385	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][205] Line 211 Chamber 7: division by zero
+2022-07-26 10:57:52,024	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][205] Line 211 Chamber 8: division by zero
+2022-07-26 10:58:48,885	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][206] Line 207 Chamber 1: division by zero
+2022-07-26 10:58:57,067	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-26 10:58:57,994	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 10:58:58,911	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 10:58:59,812	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 10:59:00,413	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][206] Line 207 Chamber 10: division by zero
+2022-07-26 10:59:09,243	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][206] Line 211 Chamber 4: division by zero
+2022-07-26 10:59:09,846	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][206] Line 211 Chamber 5: division by zero
+2022-07-26 10:59:10,461	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][206] Line 211 Chamber 6: division by zero
+2022-07-26 10:59:11,067	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][206] Line 211 Chamber 7: division by zero
+2022-07-26 10:59:11,680	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][206] Line 211 Chamber 8: division by zero
+2022-07-26 11:11:23,098	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][208] Line 207 Chamber 1: division by zero
+2022-07-26 11:11:31,357	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-26 11:11:32,264	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 11:11:33,180	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 11:11:34,082	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 11:11:34,714	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][208] Line 207 Chamber 10: division by zero
+2022-07-26 11:11:43,289	cryomonitor	INFO	Line 211 is stopped.
+2022-07-26 11:12:46,909	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-26 11:12:47,833	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 11:12:48,734	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 11:12:49,638	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 11:12:50,249	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][208] Line 207 Chamber 10: division by zero
+2022-07-26 11:12:58,850	cryomonitor	INFO	Line 211 is stopped.
+2022-07-26 11:17:38,624	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-26 11:17:39,547	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 11:17:40,463	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 11:17:41,400	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 11:17:42,028	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][209] Line 207 Chamber 10: division by zero
+2022-07-26 11:17:50,725	cryomonitor	INFO	Line 211 is stopped.
+2022-07-26 11:43:15,591	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-26 11:43:16,515	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 11:43:17,433	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 11:43:18,335	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 11:43:18,936	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][209] Line 207 Chamber 10: division by zero
+2022-07-26 11:43:20,154	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][209] Line 207 Chamber 11: division by zero
+2022-07-26 11:43:27,817	cryomonitor	INFO	Line 211 is stopped.
+2022-07-26 11:53:20,064	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-26 11:53:20,981	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 11:53:21,898	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 11:53:22,799	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 11:53:23,415	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][209] Line 207 Chamber 10: division by zero
+2022-07-26 11:53:25,568	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][209] Line 207 Chamber 11: division by zero
+2022-07-26 11:53:34,179	cryomonitor	INFO	Line 211 is stopped.
+2022-07-26 11:59:55,245	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][210] Line 207 Chamber 5: division by zero
+2022-07-26 11:59:58,579	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 11:59:59,485	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 12:00:00,399	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 12:00:01,015	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][210] Line 207 Chamber 10: division by zero
+2022-07-26 12:00:12,065	cryomonitor	INFO	Line 211 is stopped.
+2022-07-26 12:01:20,794	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-26 12:01:21,712	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 12:01:22,618	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 12:01:23,534	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 12:01:24,135	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][210] Line 207 Chamber 10: division by zero
+2022-07-26 12:01:35,175	cryomonitor	INFO	Line 211 is stopped.
+2022-07-26 12:10:04,467	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][156] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-26 12:10:05,382	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][156] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-26 12:10:06,306	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][156] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-26 12:10:07,228	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][156] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-26 12:10:07,844	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][212] Line 207 Chamber 10: division by zero
+2022-07-26 12:10:16,428	cryomonitor	INFO	Line 211 is stopped.
+2022-07-26 12:11:46,816	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 6: exceptions must derive from BaseException
+2022-07-26 12:11:47,733	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 7: exceptions must derive from BaseException
+2022-07-26 12:11:48,634	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 8: exceptions must derive from BaseException
+2022-07-26 12:11:49,541	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 9: exceptions must derive from BaseException
+2022-07-26 12:11:50,156	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][212] Line 207 Chamber 10: division by zero
+2022-07-26 12:11:58,767	cryomonitor	INFO	Line 211 is stopped.
+2022-07-26 12:16:45,867	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 6: exceptions must derive from BaseException
+2022-07-26 12:16:46,768	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 7: exceptions must derive from BaseException
+2022-07-26 12:16:47,694	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 8: exceptions must derive from BaseException
+2022-07-26 12:16:48,616	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][155] Line 207 Chamber 9: exceptions must derive from BaseException
+2022-07-26 12:16:53,464	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][212] Line 207 Chamber 10: division by zero
+2022-07-26 12:18:28,849	cryomonitor	INFO	Line 211 is stopped.

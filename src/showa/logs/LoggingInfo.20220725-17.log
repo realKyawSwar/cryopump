@@ -1,0 +1,250 @@
+2022-07-25 16:10:22,219	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 1: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,254	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 2: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,257	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 3: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,273	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,288	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,304	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,319	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,319	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,335	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 9: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,356	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 10: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,357	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 11: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,373	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 12: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,373	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 13: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,389	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 14: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,404	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,422	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,438	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,438	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:10:22,457	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,701	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 1: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,706	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 2: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,722	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 3: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,722	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,738	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,753	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,753	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,769	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,785	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 9: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,802	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 10: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,807	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 11: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,822	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 12: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,822	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 13: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,838	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 14: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,855	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,855	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,871	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,887	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:40,887	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,215	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 1: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,231	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 2: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,247	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 3: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,247	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,269	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,269	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,284	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,300	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,300	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 9: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,316	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 10: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,331	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 11: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,331	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 12: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,347	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 13: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,367	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 14: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,369	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,384	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,384	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,400	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:11:56,416	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,129	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 1: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,144	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 2: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,160	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 3: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,176	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,182	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,198	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,214	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,229	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,245	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 9: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,245	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 10: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,260	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 11: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,283	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 12: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,304	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 13: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,306	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 14: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,322	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,337	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,353	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,378	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:13:59,392	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:32,838	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 1: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:32,854	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 2: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:32,876	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 3: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:32,892	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:32,908	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:32,923	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:32,939	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:32,954	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:32,976	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 9: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:32,992	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 10: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:33,008	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 11: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:33,023	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 12: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:33,039	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 13: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:33,055	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 14: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:33,074	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:33,088	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:33,103	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:33,119	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:14:33,135	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,394	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 1: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,409	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 2: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,427	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 3: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,431	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,447	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,463	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,478	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,494	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,509	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 9: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,535	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 10: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,550	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 11: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,566	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 12: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,583	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 13: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,600	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 207 Chamber 14: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,615	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 4: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,630	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 5: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,646	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 6: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,661	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 7: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:05,676	cryomonitor	ERROR	Error @ [__main__][greetings][33] Line 211 Chamber 8: module 'showa.modules.modbus' has no attribute 'serial_obj'
+2022-07-25 16:15:59,066	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 1: '207'
+2022-07-25 16:15:59,081	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 2: '207'
+2022-07-25 16:15:59,103	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 3: '207'
+2022-07-25 16:15:59,119	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 4: '207'
+2022-07-25 16:15:59,135	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 5: '207'
+2022-07-25 16:15:59,150	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 6: '207'
+2022-07-25 16:15:59,166	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 7: '207'
+2022-07-25 16:15:59,182	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 8: '207'
+2022-07-25 16:15:59,202	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 9: '207'
+2022-07-25 16:15:59,219	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 10: '207'
+2022-07-25 16:15:59,235	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 11: '207'
+2022-07-25 16:15:59,256	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 12: '207'
+2022-07-25 16:15:59,273	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 13: '207'
+2022-07-25 16:15:59,293	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 207 Chamber 14: '207'
+2022-07-25 16:15:59,313	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 211 Chamber 4: '211'
+2022-07-25 16:15:59,331	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 211 Chamber 5: '211'
+2022-07-25 16:15:59,352	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 211 Chamber 6: '211'
+2022-07-25 16:15:59,371	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 211 Chamber 7: '211'
+2022-07-25 16:15:59,386	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][58] Line 211 Chamber 8: '211'
+2022-07-25 16:19:41,082	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 1: '207'
+2022-07-25 16:19:41,098	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 2: '207'
+2022-07-25 16:19:41,114	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 3: '207'
+2022-07-25 16:19:41,134	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 4: '207'
+2022-07-25 16:19:41,152	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 5: '207'
+2022-07-25 16:19:41,170	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 6: '207'
+2022-07-25 16:19:41,192	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 7: '207'
+2022-07-25 16:19:41,209	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 8: '207'
+2022-07-25 16:19:41,229	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 9: '207'
+2022-07-25 16:19:41,249	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 10: '207'
+2022-07-25 16:19:41,273	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 11: '207'
+2022-07-25 16:19:41,293	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 12: '207'
+2022-07-25 16:19:41,312	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 13: '207'
+2022-07-25 16:19:41,331	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 207 Chamber 14: '207'
+2022-07-25 16:19:41,350	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 211 Chamber 4: '211'
+2022-07-25 16:19:41,369	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 211 Chamber 5: '211'
+2022-07-25 16:19:41,389	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 211 Chamber 6: '211'
+2022-07-25 16:19:41,407	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 211 Chamber 7: '211'
+2022-07-25 16:19:41,426	cryomonitor	ERROR	Error @ [showa.modules.modbus][ser_obj][54] Line 211 Chamber 8: '211'
+2022-07-25 16:21:24,108	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 1: object of type 'NoneType' has no len()
+2022-07-25 16:21:25,110	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 2: object of type 'NoneType' has no len()
+2022-07-25 16:21:26,114	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 3: object of type 'NoneType' has no len()
+2022-07-25 16:21:27,115	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 4: object of type 'NoneType' has no len()
+2022-07-25 16:21:28,120	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 5: object of type 'NoneType' has no len()
+2022-07-25 16:21:29,132	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-25 16:21:30,153	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-25 16:21:31,184	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-25 16:21:32,187	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-25 16:21:33,187	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 10: object of type 'NoneType' has no len()
+2022-07-25 16:21:34,172	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 11: object of type 'NoneType' has no len()
+2022-07-25 16:21:35,158	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 12: object of type 'NoneType' has no len()
+2022-07-25 16:21:36,162	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 13: object of type 'NoneType' has no len()
+2022-07-25 16:21:37,193	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 14: object of type 'NoneType' has no len()
+2022-07-25 16:21:38,209	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 211 Chamber 4: object of type 'NoneType' has no len()
+2022-07-25 16:21:39,194	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 211 Chamber 5: object of type 'NoneType' has no len()
+2022-07-25 16:21:40,195	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 211 Chamber 6: object of type 'NoneType' has no len()
+2022-07-25 16:21:41,231	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 211 Chamber 7: object of type 'NoneType' has no len()
+2022-07-25 16:21:42,234	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 211 Chamber 8: object of type 'NoneType' has no len()
+2022-07-25 16:25:32,186	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 1: object of type 'NoneType' has no len()
+2022-07-25 16:25:33,172	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 2: object of type 'NoneType' has no len()
+2022-07-25 16:25:34,167	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 3: object of type 'NoneType' has no len()
+2022-07-25 16:25:35,183	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 4: object of type 'NoneType' has no len()
+2022-07-25 16:25:36,170	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 5: object of type 'NoneType' has no len()
+2022-07-25 16:25:37,156	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 6: object of type 'NoneType' has no len()
+2022-07-25 16:25:38,148	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-25 16:25:39,138	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-25 16:25:40,138	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-25 16:25:41,132	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 10: object of type 'NoneType' has no len()
+2022-07-25 16:25:42,125	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 11: object of type 'NoneType' has no len()
+2022-07-25 16:25:43,117	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 12: object of type 'NoneType' has no len()
+2022-07-25 16:25:44,122	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 13: object of type 'NoneType' has no len()
+2022-07-25 16:25:45,133	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 207 Chamber 14: object of type 'NoneType' has no len()
+2022-07-25 16:25:46,122	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 211 Chamber 4: object of type 'NoneType' has no len()
+2022-07-25 16:25:47,113	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 211 Chamber 5: object of type 'NoneType' has no len()
+2022-07-25 16:25:48,110	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 211 Chamber 6: object of type 'NoneType' has no len()
+2022-07-25 16:25:49,124	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 211 Chamber 7: object of type 'NoneType' has no len()
+2022-07-25 16:25:50,119	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][152] Line 211 Chamber 8: object of type 'NoneType' has no len()
+2022-07-25 16:26:22,109	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 1: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:23,086	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 2: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:24,050	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 3: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:25,020	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 4: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:25,990	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 5: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:26,992	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 6: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:27,993	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 7: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:28,994	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 8: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:30,011	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 9: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:30,997	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 10: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:31,999	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 11: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:33,000	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 12: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:34,004	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 13: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:35,008	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 14: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:36,008	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 211 Chamber 4: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:37,027	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 211 Chamber 5: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:38,013	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 211 Chamber 6: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:39,001	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 211 Chamber 7: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:26:39,980	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 211 Chamber 8: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:24,322	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 1: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:25,308	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 2: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:26,309	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 3: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:27,272	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 4: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:28,310	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 5: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:29,274	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 6: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:30,251	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 7: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:31,230	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 8: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:32,232	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 9: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:33,217	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 10: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:34,187	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 11: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:35,171	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 12: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:36,152	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 13: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:37,194	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 207 Chamber 14: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:38,195	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 211 Chamber 4: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:39,197	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 211 Chamber 5: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:40,186	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 211 Chamber 6: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:41,173	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 211 Chamber 7: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:27:42,190	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][151] Line 211 Chamber 8: get_command() missing 1 required positional argument: 'ser'
+2022-07-25 16:30:17,521	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 207 Chamber 5: division by zero
+2022-07-25 16:30:22,217	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-25 16:30:24,114	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-25 16:30:26,029	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-25 16:30:28,097	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 10: object of type 'NoneType' has no len()
+2022-07-25 16:31:28,729	cryomonitor	ERROR	Error @ [showa.modules.modbus][get_data][204] Line 207 Chamber 4: division by zero
+2022-07-25 16:31:36,688	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-25 16:31:38,603	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-25 16:31:40,505	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-25 16:31:42,423	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 10: object of type 'NoneType' has no len()
+2022-07-25 16:38:11,838	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-25 16:38:13,744	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-25 16:38:15,635	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-25 16:38:17,572	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 10: object of type 'NoneType' has no len()
+2022-07-25 16:49:11,026	cryomonitor	ERROR	Error @ [showa.lib.database][execute][1301] Upload Error :INSERT has more expressions than target columns
+LINE 1: ...07, 'CRC1', 'P1', 'forward', 60.0, 9.27, 202.06, 271.5, 0.2)
+                                                                   ^
+
+2022-07-25 17:05:44,557	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 7: object of type 'NoneType' has no len()
+2022-07-25 17:05:46,460	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 8: object of type 'NoneType' has no len()
+2022-07-25 17:05:48,358	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 9: object of type 'NoneType' has no len()
+2022-07-25 17:05:50,243	cryomonitor	ERROR	Error @ [showa.modules.modbus][check_drive_status][150] Line 207 Chamber 10: object of type 'NoneType' has no len()
