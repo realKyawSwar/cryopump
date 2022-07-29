@@ -13,8 +13,8 @@ def upload_data(data: tuple) -> None:
     '''
     try:
         myPg = None
-        myPg = Postgres("128.53.1.71/5432", "spt_db", "spt_admin",
-                        "sptadmin")
+        myPg = Postgres("", "", "",
+                        "")
         myPg.connect()
         print("Connection succeeded for cryopump..")
         strSQL = f"INSERT INTO eqt_data_monitor.cryopump values {data}"
